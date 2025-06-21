@@ -3,3 +3,5 @@ add main feature a
 add main feature b
 add main feature c
 add feature 1
+interactive rebase testing1
+interactive rebase testing2
