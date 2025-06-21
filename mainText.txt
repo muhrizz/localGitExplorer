@@ -5,3 +5,4 @@ add main feature c
 add feature 1
 interactive rebase testing1
 interactive rebase testing2
+interactive rebase testing3 (modified)
