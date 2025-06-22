@@ -11,3 +11,4 @@ soft reset testing
 reverting in middle commit testing2
 middle revert1
 middle revert2
+middle revert3
