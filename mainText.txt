@@ -9,6 +9,4 @@ interactive rebase testing3 (modified)
 mixed reset testing (modified)
 soft reset testing
 reverting in middle commit testing2
-middle revert1
-middle revert2
-middle revert3
+add little modification whlile resolve revert middle conflict
