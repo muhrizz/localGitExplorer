@@ -8,3 +8,4 @@ interactive rebase testing2
 interactive rebase testing3 (modified)
 mixed reset testing (modified)
 soft reset testing
+revert testing
