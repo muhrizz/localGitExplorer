@@ -8,5 +8,4 @@ interactive rebase testing2
 interactive rebase testing3 (modified)
 mixed reset testing (modified)
 soft reset testing
-reverting in middle commit testing1
 reverting in middle commit testing2
